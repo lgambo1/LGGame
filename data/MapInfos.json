@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"expanded":true,"name":"World","order":1,"parentId":0,"scrollX":819,"scrollY":453},
+{"id":2,"expanded":true,"name":"Town","order":2,"parentId":1,"scrollX":811,"scrollY":507},
+{"id":3,"expanded":true,"name":"Forest","order":6,"parentId":1,"scrollX":819,"scrollY":453},
+{"id":4,"expanded":true,"name":"MAP004","order":7,"parentId":3,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":false,"name":"Shop","order":3,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":true,"name":"INN","order":4,"parentId":2,"scrollX":819,"scrollY":453},
+{"id":7,"expanded":false,"name":"2INN","order":5,"parentId":6,"scrollX":819,"scrollY":453},
+{"id":8,"expanded":false,"name":"End Screen","order":8,"parentId":4,"scrollX":0,"scrollY":0}
+]
